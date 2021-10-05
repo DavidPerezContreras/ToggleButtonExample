@@ -21,7 +21,7 @@ public class Main extends Application{
 		
 		ToggleButton wifi = new ToggleButton("Wifi");
 		
-		System.out.println(wifi.getInsets().toString());
+		
 		
 		ToggleButton modoAvion = new ToggleButton("Modo Avion");
 		
